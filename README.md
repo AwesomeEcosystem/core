@@ -1,4 +1,4 @@
-# ARK Core
+# Nomics Core
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/ARKEcosystem/core/master/banner.png" />
@@ -7,7 +7,7 @@
 [![Build Status](https://badgen.now.sh/github/status/ArkEcosystem/core/master)](https://github.com/ArkEcosystem/core/actions)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
-> Lead Maintainer: [Erwann Gentric](https://github.com/air1one)
+> Lead Maintainer: [Christopher Müller](https://github.com/equaliser0)
 
 ## Introduction
 
